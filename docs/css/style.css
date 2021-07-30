@@ -136,3 +136,15 @@ button:hover{
     
 }
 
+footer{
+    text-align: center;
+    color: white;
+    font-size: unset;
+}
+
+footer, a{
+    text-align: center;
+    color: white;
+    font-size: unset;
+}
+

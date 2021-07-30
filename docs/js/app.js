@@ -24,7 +24,7 @@ for(let i =0; i< results.length; i++){
     item.id = "placeholderInfo";
     item.innerHTML = `
     <div class="heroNameContainer">
-    <h3 id="details">${results[i].name}</H3>
+    <h3 id="details">${results[i].name}</h3>
     </div>
     <img id="heroImage" src='${results[i].image.url}' />
     <div class="heroDetailsContainer">
